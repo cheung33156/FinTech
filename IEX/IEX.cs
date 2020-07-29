@@ -1,5 +1,4 @@
-﻿// Copyright 2020 Tsz Ning Cheung 
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 using RestSharp;
 using System;
 using System.Collections.Generic;

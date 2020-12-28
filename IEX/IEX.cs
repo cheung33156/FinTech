@@ -48,7 +48,7 @@ namespace IEX
             [JsonProperty("companyName")]
             public string CompanyName { get; set; }
             [JsonProperty("employees")]
-            public int Employees { get; set; }
+            public int? Employees { get; set; }
             [JsonProperty("exchange")]
             public string Exchange { get; set; }
             [JsonProperty("industry")]

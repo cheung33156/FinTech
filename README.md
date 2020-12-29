@@ -1,5 +1,5 @@
 # FinTech
-This folder contains my collection of FINTECJ programs. 
+This folder contains my collection of FINTECH programs. 
 Starting with IEX which is a dotnet sample program for accessing IEX 
 (The Investor's Exchange).
 It uses a fluent interface to facilitate the class initialization process.
